@@ -69,3 +69,12 @@ V. GHI CHÚ AN TOÀN
 VI. GỢI Ý CÔNG CỤ
 -	OpenSSL, iText7/BouncyCastle, pypdf/PyPDF2.
 -	Tham khảo chuẩn PDF: ISO 32000-2 (PDF 2.0) và ETSI EN 319 142 (PAdES). ---
+## các bước làm
+1. tạo khóa
+   <img width="1141" height="172" alt="Screenshot 2025-10-31 225841" src="https://github.com/user-attachments/assets/0df8b45d-7bf1-476f-b4cc-87c6b273664e" />
+2. Đăng ký FDF
+   
+   <img width="1450" height="225" alt="Screenshot 2025-10-31 225914" src="https://github.com/user-attachments/assets/c394436a-8c62-4385-8e6b-55a7b0d3e68f" />
+3. Kết quả
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2507df75-f963-466a-9330-d68dba9282d4" />
+
